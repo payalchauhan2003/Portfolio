@@ -7,13 +7,10 @@ Welcome to my personal portfolio repository! This repository contains the source
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Projects](#projects)
-- [Contact](#contact)
-- [License](#license)
 
 ## About
 
-I am Payal Chauhan, a passionate and dedicated individual pursuing [Your Degree or Profession]. This portfolio reflects my journey, skills, and the projects that have shaped my learning experience.
+I am Payal Chauhan, a passionate and dedicated individual pursuing BTech CSE. This portfolio reflects my journey, skills, and the projects that have shaped my learning experience.
 
 ## Features
 
